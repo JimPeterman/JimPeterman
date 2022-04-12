@@ -8,6 +8,8 @@
   </a>
 </div>
 
+
+### A little about me:
 I am a data scientist and researcher. I have a background in physiology but love using data to answer all kinds of questions.
 
 As a researcher, I primarily utilize data from the BALL ST cohort as well as the [FRIEND database](https://share.streamlit.io/jimpeterman/friend_app/main/app.py) to explore how to assess fitness and how these assessments can predict health outcomes.
@@ -16,6 +18,7 @@ I am also a cofounder and the Chief Science Officer for [Fuelfood](https://www.f
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peterman/)
 
+### My GitHub stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JimPeterman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimPeterman)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,9 +31,6 @@ I am also a cofounder and the Chief Science Officer for [Fuelfood](https://www.f
 
 <!--
 **JimPeterman/JimPeterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 Here are some ideas to get you started:
 
