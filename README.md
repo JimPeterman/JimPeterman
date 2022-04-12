@@ -16,6 +16,7 @@ As a researcher, I primarily utilize data from the BALL ST cohort as well as the
 
 I am also a cofounder and the Chief Science Officer for [Fuelfood](https://www.fuelfood.io/) - an app designed to improve meal planning for athletes.
 
+- 📝 I regularly publish findings from my research in scientific journals: [![ReserachGate Badge](https://img.shields.io/badge/ResearchGate-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/James-Peterman)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peterman/)
 
 ### My GitHub stats:
