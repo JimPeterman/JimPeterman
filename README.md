@@ -1,4 +1,4 @@
-### Hi there, I'm Dr. Jim Peterman 👋
+### Hey there, I'm Dr. Jim Peterman 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/james-peterman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +14,16 @@ As a researcher, I primarily utilize data from the BALL ST cohort as well as the
 
 I am also a cofounder and the Chief Science Officer for [Fuelfood](https://www.fuelfood.io/) - an app designed to improve meal planning for athletes.
 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peterman/)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JimPeterman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimPeterman)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 <!--
