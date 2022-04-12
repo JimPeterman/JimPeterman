@@ -1,5 +1,12 @@
 ### Hi there, I'm Dr. Jim Peterman 👋
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/james-peterman/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/James-Peterman">
+    <img src="https://img.shields.io/badge/ResearchGate-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white"     alt="ResearchGate Badge"/>
+  </a>
+</div>
 
 I am a data scientist and researcher. I have a background in physiology but love using data to answer all kinds of questions.
 
