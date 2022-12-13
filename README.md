@@ -14,13 +14,13 @@
 </div>
 
 ### A little about me:
-I am a data scientist and researcher. I have a background in physiology but love using data to answer all kinds of questions.
+I am a data scientist and researcher. I have a background in physiology but love digging into data to explore answers to all kinds of questions, especially those questions related to health and well-being.
 
-As a researcher, I primarily utilize data from the BALL ST cohort as well as the [FRIEND database](https://share.streamlit.io/jimpeterman/friend_app/main/app.py) to explore how to assess fitness and how these assessments can predict health outcomes.
+As a researcher, I have managed and utilized data from well-established databases, including the BALL ST cohort as well as the [FRIEND database](https://share.streamlit.io/jimpeterman/friend_app/main/app.py), to examine how to best assess fitness and how these assessments can predict health outcomes.
 
 I am also a cofounder and the Chief Science Officer for [Fuelfood](https://www.fuelfood.io/) - an app designed to improve meal planning for athletes.
 
-- 📝 I regularly publish findings from my research in scientific journals: [![ReserachGate Badge](https://img.shields.io/badge/ResearchGate-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/James-Peterman)
+- 📝 I have published findings from my research in peer-reviewed scientific journals (>35 publications): [![ReserachGate Badge](https://img.shields.io/badge/ResearchGate-brightgreen?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/James-Peterman)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peterman/)
 
 ### My GitHub stats:
